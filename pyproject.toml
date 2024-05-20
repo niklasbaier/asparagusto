@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "instant_repo"                             # TODO: change name
-version = "0.15.5"                                # TODO: initialize to "0.1.0"
-description = "template for personal projects"    # TODO: change description
+name = "asparagusto"
+version = "0.1.0"
+description = "meal planning app"
 authors = ["niklasbaier <niklas.baier@yahoo.de>"]
 readme = "README.md"
 
@@ -32,12 +32,11 @@ mkdocs-include-markdown-plugin = "*"
 
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.15.5" # TODO: initialize to "0.1.0"
+version = "0.1.0"
 tag_format = "v$version"
 version_files = [
     "pyproject.toml:^version",
-    "src/instant_repo/__init__.py:^__version",
-    "src/instant_repo/__init__.py:^__instant_repo_version", # TODO: remove
+    "src/asparagusto/__init__.py:^__version",
 ]
 update_changelog_on_bump = true
 changelog_incremental = true

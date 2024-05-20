@@ -1,6 +1,5 @@
 This site contains the project documentation for the
-`instant-repo` project.
-Its aim is to provide a ready-to-go project skeleton that has been built according to best practices.
+`asparagusto` project.
 
 ## Table of Contents
 
@@ -26,7 +25,7 @@ your use case by looking at the different pages.
 
 ## Project Overview
 
-::: src.instant_repo
+::: src.asparagusto
 
 ## Project Setup
 
@@ -50,24 +49,4 @@ $ pre-commit install
 Installed
 ```
 
-Run the main `app.py` via:
-
-```
-poetry run python3 app.py
-```
-
-Run the docs locally via:
-
-```
-poetry run mkdocs serve
-```
-
-Run the tests via:
-
-```
-poetry run pytest tests/.
-```
-
 ## Acknowledgements
-
-This project template bundles many of the best practices I'm learning at work through my peers, and seniors. It also includes a lot of wisdom of the crowd from various corners of the internet, so I'm thankful for everyone out there who spends time & resources to help out beginners!

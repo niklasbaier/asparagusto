@@ -1,5 +1,5 @@
-When I started my first job as an Associate ML Engineer, and hence moved from coding in isolation to collaborating with experienced developers, I was awestruck how incredibly well and professional the codebases were set up compared to anything I have worked with before.
+While I like to plan ahead my meals for the week, I dread the process of coming up with four to five dinners, as well as lunch mealprep ideas. Hence, every week anew I wish for an app that simply takes care of the planning for me. Behold - this is where `asparagusto`\* is meant to save the day!
 
-However, everything had _already_ been set up, and I was eager to learn how to properly create a new coding project completely from scratch on my own. Thus, the idea for this project template repository was born.
+From a technical point of view, I want to use this project as a practice ground for building a true fullstack application - with a dedicated UI, a proper domain, and a backend database and API service. My goal is to also deploy this on a Raspberry Pi server.
 
-Now, with this template as a basis, I can rapidly work on new pet projects that follow many best coding practices, without having to set things up again and again from scratch. Instead, I will continuously work on this template and update it with new learnings and findings.
+\*why the name? Simply, because asparagus is my girlfriend's favorite vegetable, and I am a sucker for play-on-words :)

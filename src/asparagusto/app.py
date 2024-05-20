@@ -1,6 +1,6 @@
 import logging
 
-from instant_repo import commons
+from asparagusto import commons
 
 
 def main():

@@ -1,11 +1,11 @@
-# src/instant_repo/mkdocstrings_example.py
+# src/asparagusto/mkdocstrings_example.py
 
 """Quick description about contents of module.
 
 This module allows the user to make mathematical calculations.
 
 Examples:
-    >>> from instant_repo import mkdocstrings_example
+    >>> from asparagusto import mkdocstrings_example
     >>> mkdocstrings_example.function_mkdocstrings_example(2, 4)
     6.0
 
